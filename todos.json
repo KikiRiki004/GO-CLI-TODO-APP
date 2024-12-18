@@ -1,0 +1,32 @@
+[
+    {
+        "Title": "Go Gym",
+        "Completed": false,
+        "CreatedAt": "2024-12-18T16:09:25.433585+01:00",
+        "CompletedAt": null
+    },
+    {
+        "Title": "Finish todo code",
+        "Completed": true,
+        "CreatedAt": "2024-12-18T16:09:55.179838+01:00",
+        "CompletedAt": "2024-12-18T16:11:07.332195+01:00"
+    },
+    {
+        "Title": "Read book",
+        "Completed": false,
+        "CreatedAt": "2024-12-18T16:10:16.727557+01:00",
+        "CompletedAt": null
+    },
+    {
+        "Title": "Understand todo code",
+        "Completed": true,
+        "CreatedAt": "2024-12-18T16:10:31.343884+01:00",
+        "CompletedAt": "2024-12-18T16:11:13.590367+01:00"
+    },
+    {
+        "Title": "Voltage regulators",
+        "Completed": true,
+        "CreatedAt": "2024-12-18T16:14:12.444741+01:00",
+        "CompletedAt": "2024-12-18T16:14:41.269627+01:00"
+    }
+]
